@@ -3,7 +3,8 @@
 
 
 
-# Tasty Snack Landing Page <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  alt="CSS" width="70" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="70" height="60" />
+# Simple Portfolio React Sass <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="70" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="70" height="60" /><img src="https://raw.githubusercontent.com/MGBrave/SimplePortfolioReactSass/3b5ec2a1626085a841b921a850292c334ed5d600/vite-svg.svg"  alt="Vite" width="70" height="60"/>
+
           
       
 
